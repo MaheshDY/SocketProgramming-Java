@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 
-public class Main {
+public class ClientProgram {
   public static void main(String[] args) {
     String serverAddress = "localhost";
     int port = 5050;
