@@ -3,4 +3,5 @@ Trying single client-server application using Java. Will extend futher to add mu
 
 Below image is sample single client transmitting message to server. 
 
-<img width="1810" alt="Screenshot 2024-10-09 at 14 55 15" src="https://github.com/user-attachments/assets/bdec442b-29a4-456d-bf81-e6da3a3020e6">
+<img width="1809" alt="Screenshot 2024-10-09 at 15 08 08" src="https://github.com/user-attachments/assets/72a1fcd6-7242-46b6-ad09-4323fe39f24c">
+
